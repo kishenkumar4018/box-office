@@ -1,12 +1,13 @@
 /* eslint-disable arrow-body-style */
 import React from 'react'
+import MainPageLayout from '../MainPageLayout'
 
 const Home = () => {
     return (
-        <div>
+        <MainPageLayout>
             this is home
-        </div>
-    )
-}
+        </MainPageLayout>
+    );
+};
 
 export default Home

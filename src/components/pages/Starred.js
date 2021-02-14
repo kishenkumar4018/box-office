@@ -1,12 +1,13 @@
 /* eslint-disable arrow-body-style */
-import React from 'react'
+import React from 'react';
+import MainPageLayout from '../MainPageLayout';
 
 const Starred = () => {
     return (
-        <div>
-            this is Starred
-        </div>
-    )
-}
+    <MainPageLayout>
+        this is Starred
+        </MainPageLayout>
+    );
+;}
 
 export default Starred
