@@ -1,7 +1,7 @@
 /* eslint-disable no-unreachable */
 
 import React from 'react';
-import MainPageLayout from '../MainPageLayout';
+import MainPageLayout from '../components/MainPageLayout';
 
 const Starred = () => {
   return 

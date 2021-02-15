@@ -2,8 +2,8 @@ import React from "react";
 import { Switch, Route } from "react-router-dom";
 // eslint-disable-next-line no-unused-vars
 
-import Home from "./components/pages/Home";
-import Starred from "./components/pages/Starred";
+import Home from "./pages/Home";
+import Starred from "./pages/Starred";
 
 function App() {
   return (
