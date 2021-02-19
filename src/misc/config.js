@@ -6,4 +6,3 @@ export async function apiGet(queryString) {
   );
   return response;
 }
-  
